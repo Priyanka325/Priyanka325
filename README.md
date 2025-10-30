@@ -1,4 +1,4 @@
-<!-- Large Animated Header -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20Priyanka%20Silambarasan!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 ## 💫 About Me
